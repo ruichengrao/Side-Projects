@@ -1,2 +1,2 @@
 # Side-Projects
-just sm side projects and modules
+just sm side projects
